@@ -5,3 +5,10 @@ a hands-on experiment over Ad-Hoc networks. The learning process is carried out 
 VoIP users as clients. The server uses Asterisk software. 
 
 This particular report contains the virtual machine approach, and not the ad hoc approach.
+
+## Call Scenarios:
+
+1. Call between two sip clients
+2. Busy User
+3. Call on Hold
+4. Conference Call
