@@ -11,5 +11,8 @@ This particular report contains the virtual machine approach, and not the ad hoc
 -  Two SIP clients are configured on the two laptops and how they register with the Asterisk server and also how a call will be made between them via the server.
 
 2. Busy User
+
+- Registered SIP client calls another soft-phone and receives a busy tone. 
+
 3. Call on Hold
 4. Conference Call
