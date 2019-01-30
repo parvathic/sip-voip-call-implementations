@@ -15,4 +15,11 @@ This particular report contains the virtual machine approach, and not the ad hoc
 - Registered SIP client calls another soft-phone and receives a busy tone. 
 
 3. Call on Hold
+
+- Third user calls two users already on a call and will be put on hold.
+
 4. Conference Call
+
+- Conference call between three users.
+
+### SIP Stack used: Asterisk, Softphones: X-lite.
